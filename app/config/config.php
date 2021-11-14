@@ -8,7 +8,7 @@
 // define('DB_NAME', 'sk_reza');
 
 
-define('base_url', 'https://mysterious-retreat-39792.herokuapp.com/index.php');
+define('base_url', 'https://arsipbem.herokuapp.com/index.php');
 
 define('DB_HOST', 'us-cdbr-east-04.cleardb.com');
 define('DB_USER', 'b7dd94c1174a22');
