@@ -24,7 +24,7 @@ self.addEventListener("activate", (event) => {
       await Promise.all(
         cacheNames
           .filter((cacheName) => {})
-          .map((cacheName) => caches.delete(cacheName))
+          // .map((cacheName) => caches.delete(cacheName))
       );
     })()
   );
