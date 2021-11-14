@@ -8,6 +8,6 @@
 </head>
 <body>
   <h3>Anda sedang offline</h3>
-  <a href="https://mysterious-retreat-39792.herokuapp.com/index.php?c=home&m=index">kembali</a>
+  <a href="https://arsipbem.herokuapp.com/index.php?c=home&m=index">kembali</a>
 </body>
 </html>
