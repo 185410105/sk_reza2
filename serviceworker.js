@@ -1,8 +1,25 @@
 var CACHE_NAME = "sk_reza-master";
 var urlsToCache = [
   "/",
-  // "app/config/config.php"
+  "app/views/arsip/add.php",
+  "app/views/arsip/delete.php",
+  "app/views/arsip/detail.php",
+  "app/views/arsip/edit.php",
+  "app/views/arsip/index.php",
+  "app/views/auth/login.php",
+  "app/views/home/index.php",
+  "app/views/home/profil_user.php",
+  "app/views/home/profil.php",
+  "app/views/templates/footer.php",
+  "app/views/templates/header.php",
+  "app/views/templates/navigation.php",
+  "app/views/templates/sidebar.php",
+  "app/views/user/add.php",
+  "app/views/user/delete.php",
+  "app/views/user/edit.php",
+  "app/views/user/index.php",
   // "app/controller"
+
   'fallback.php',
 ];
 
